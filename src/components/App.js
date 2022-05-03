@@ -27,6 +27,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-// API KEY: UWPoN74BPo4I6QfcTYjQ4w61bJMBDeC3FLwJlcvwTi4
-// SECRET KEY: 1ZIMrR6WbD9hN3_BvA-wIkHD4vM1DZfT56afVj-ntTo
